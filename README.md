@@ -5,7 +5,7 @@
 
 Welcome to my Github!✨🎤🚀
 
-📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎: 
 
 I'm a software developer, from Israel, holding German citizenship as well.
 
