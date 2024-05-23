@@ -1,6 +1,7 @@
 ### Hi I'm Yael! 👋 
 
 Welcome to my Github!✨🎤🚀
+![giphy](https://github.com/Yael246810/Yael246810/assets/121745678/7c7eb96c-33d8-4fd5-9588-a466850451d4)
 
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
 
