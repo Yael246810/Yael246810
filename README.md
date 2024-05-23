@@ -1,6 +1,6 @@
-### Hi there! 👋 
+### Hi I'm Yael! 👋 
 
-I'm Yael, Welcome to my Github!✨🎤🚀
+Welcome to my Github!✨🎤🚀
 
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎:
 
