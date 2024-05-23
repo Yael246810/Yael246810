@@ -7,9 +7,7 @@ Welcome to my Github!✨🎤🚀
 
 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎: 
 
-I'm a software developer, from Israel, holding German citizenship as well.
-
-Looking for my first role as a junior java full stack developer💻
+I'm a software developer, Looking for my first role as a junior java full stack developer💻
 
 🚀 My Skills:
 
