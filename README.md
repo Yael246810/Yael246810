@@ -20,6 +20,7 @@ Web Technologies:
  - HTML
  - CSS
  - React
+ - Redux
 
 Databases:
  - SQL
@@ -31,7 +32,7 @@ Testing & Documentation:
 
 
 - 🔭 I’m currently working on a new project in Java
-- 🌱 I’m currently learning React & Python
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on creating mobile games, mobile apps & more 
 - 🤔 I’m looking for help with finding my next role!
 - 💬 Ask me about ... Anything!
