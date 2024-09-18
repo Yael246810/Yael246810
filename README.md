@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yael</h1>
-<h3 align="center">A passionate FullStack developer</h3>
-<img align = "right" alt="Coding" width="400" src="![giphy](https://github.com/Yael246810/Yael246810/assets/121745678/a2560ed1-03ce-4d9c-bcef-77d494cd22ec)"
+<h3 align="center">A passionate FullStack Developer</h3>
+<img align = "right" alt="Coding" width="400" src="https://github.com/Yael246810/Yael246810/assets/121745678/a2560ed1-03ce-4d9c-bcef-77d494cd22ec"
 "
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yael246810&label=Profile%20views&color=0e75b6&style=flat" alt="yael246810" /> </p>
